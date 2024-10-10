@@ -2,3 +2,28 @@ img{
     width: 300px;
     height: 300px;
 }
+
+div{
+    border: 5px dotted green;
+    color: aqua;
+    padding: 5px;                  /*padding é o espaçamento interno*/
+    width: 500px;
+}
+
+.sub{
+    color: rgb(3, 201, 33);
+}
+p {
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.cat{
+    width: 400px;
+    height: 300px;
+}
+
+.cat2{
+    width: 400px;
+    height: 400px;
+}
